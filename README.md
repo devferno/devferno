@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fernouny abdelbasset
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Typescript, Graphql, mobile development
-- 💞️ I’m looking to collaborate on anything about the web and javascript/react stuff
+- 🌱 I’m currently learning Graphql
+- 💞️ I’m looking to collaborate on anything about the web and javascript,react and nodejs stuff
 - 📫 How to reach me devfernouny@gmail.com
 
 <!---
