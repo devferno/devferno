@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fernouny abdelbasset
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data engineering
 - 💞️ I’m looking to collaborate on anything about the web and javascript,react and nodejs stuff
 - 📫 How to reach me devfernouny@gmail.com
 
